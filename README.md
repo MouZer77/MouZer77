@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Sky and I came to party
+I'm Sky and I came to Analyze! 
 
 <!--
 **MouZer77/MouZer77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
